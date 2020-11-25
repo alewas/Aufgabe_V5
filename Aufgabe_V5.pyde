@@ -53,3 +53,5 @@ def keyPressed():
         txt = "Richtig"
     else:
         txt = "Falsch"
+        
+print "hello world"
